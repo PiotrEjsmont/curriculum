@@ -203,6 +203,7 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [KarChun C's solutions:](https://github.com/karcc/javaScript)
 * [Chethan Bhat's solutions:](https://github.com/chethanbhat/Project-Euler)
 * [Bas Langenberg's solution](https://github.com/BasLangenberg/js_project_euler) | [View in browser](http://htmlpreview.github.io/?https://github.com/BasLangenberg/js_project_euler/blob/master/euler.html)
+* [Piotr Ejsmont's solution](https://github.com/PiotrEjsmont/project-euler)
 * Add your solution above this line!
 
 ## Additional Resources
